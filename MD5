@@ -1,0 +1,7 @@
+de813031710d2f13728e5431bd107fad *DESCRIPTION
+ce2afa5085fffb17226e8f9c6dea5a19 *NAMESPACE
+592be5cb38fc922eb81a9456660e6ce0 *R/main.R
+a4a4e1e968c5c7d2e938161fe1f10d55 *man/ttcg-package.Rd
+d454d0d675e1dc975207b158df202cd6 *man/ttcg.Rd
+0957f4ed45fa392b312ea0a93d3c6745 *tests/testthat.R
+8c99988d5f527146a482c8dd6f10226a *tests/testthat/test-optimize.R
